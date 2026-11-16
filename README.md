@@ -1,4 +1,4 @@
-#
+# 
 
 <div align="center">
 
@@ -18,29 +18,11 @@
 
 ## 👩🏻‍💻 ABOUT ME
 
-```yaml
-Name: Maria Eduarda Cursino
-Role: Software Development Student
-Education:
-  - Systems Analysis and Development
-  - Computer Network Technician
-Interests:
-  - Software Development
-  - Technology and Innovation
-  - IT Support
-  - Systems Architecture
-  - Problem Solving
-Mindset: Continuous Learning
-Mission: Transform ideas into technological solutions.
-```
+Technology enthusiast and **Systems Analysis and Development student**, with a technical background in Computer Networks.
 
-I'm a technology enthusiast passionate about learning, creating and developing solutions that make a difference.
+Interested in **software development, IT support and technology solutions**, combining technical knowledge, creativity and problem-solving.
 
-Currently studying **Systems Analysis and Development**, with a technical background in Computer Networks.
-
-I enjoy exploring new technologies, understanding how systems work and transforming real-world challenges into practical solutions.
-
-My goal is to combine technical knowledge, creativity and strategic thinking to build meaningful digital experiences.
+Currently focused on expanding my skills through practical projects, continuous learning and new technological challenges.
 
 ---
 
@@ -76,43 +58,10 @@ My goal is to combine technical knowledge, creativity and strategic thinking to 
 | 🌐 HTML / CSS / JS | Web Development |
 | 🗄️ MySQL | Database Fundamentals |
 | 🔌 Cisco Packet Tracer | Network Simulation |
+| 📋 Trello | Project Organization |
 | 🎨 Figma | Interface Design |
 
 </div>
-
----
-
-## 🚀 FEATURED PROJECTS
-
-<div align="center">
-
-<a href="https://github.com/SEU-USUARIO/TheoDog">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=TheoDog&theme=radical&hide_border=true&bg_color=0A0509&title_color=FF69B4&icon_color=FF1493" />
-</a>
-
-<a href="https://github.com/SEU-USUARIO/Projeto-Quadra">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=Projeto-Quadra&theme=radical&hide_border=true&bg_color=0A0509&title_color=FF69B4&icon_color=FF1493" />
-</a>
-
-</div>
-
-### 🔹 TheoDog — Pet Food Management System
-
-**Tech:** Python | Flet
-
-A management application designed to simplify product inventory, stock monitoring and sales registration for a small pet food business.
-
-### 🔹 Sports Court Scheduling System
-
-**Tech:** Software Engineering | Database | Programming
-
-An academic project focused on developing a scheduling system for sports facilities, applying software engineering concepts, requirements analysis and system modeling.
-
-### 🔹 Network Infrastructure Project
-
-**Tech:** Cisco Packet Tracer | VLAN | DHCP | DNS
-
-Network infrastructure simulation involving departmental segmentation, IP addressing, network services and security concepts.
 
 ---
 
