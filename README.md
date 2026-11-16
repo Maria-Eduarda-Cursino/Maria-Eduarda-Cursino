@@ -1,4 +1,4 @@
-# 🖤 SYSTEM INITIALIZED — MARIA EDUARDA
+#
 
 <div align="center">
 
@@ -10,7 +10,7 @@
 
 <img src="https://img.shields.io/badge/SYSTEM-ONLINE-FF1493?style=for-the-badge&logo=probot&logoColor=white" />
 <img src="https://img.shields.io/badge/STATUS-LEARNING-D946EF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LOCATION-BRAZIL-FF69B4?style=for-the-badge&logo=googlemaps&logoColor=white" />
+
 
 </div>
 
@@ -19,19 +19,19 @@
 ## 👩🏻‍💻 ABOUT ME
 
 ```yaml
-name: Maria Eduarda Cursino
-role: Software Development Student
-education:
+Name: Maria Eduarda Cursino
+Role: Software Development Student
+Education:
   - Systems Analysis and Development
   - Computer Network Technician
-interests:
+Interests:
   - Software Development
   - Technology and Innovation
   - IT Support
   - Systems Architecture
   - Problem Solving
-mindset: Continuous Learning
-mission: Transform ideas into technological solutions.
+Mindset: Continuous Learning
+Mission: Transform ideas into technological solutions.
 ```
 
 I'm a technology enthusiast passionate about learning, creating and developing solutions that make a difference.
@@ -76,7 +76,6 @@ My goal is to combine technical knowledge, creativity and strategic thinking to 
 | 🌐 HTML / CSS / JS | Web Development |
 | 🗄️ MySQL | Database Fundamentals |
 | 🔌 Cisco Packet Tracer | Network Simulation |
-| 📋 Trello | Project Organization |
 | 🎨 Figma | Interface Design |
 
 </div>
